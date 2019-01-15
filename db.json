@@ -1,137 +1,110 @@
 {
   "users": [
     {
-      "rank": 1,
       "number": "1543",
-      "results": "98"
+      "results": "95"
     },
     {
-      "rank": 2,
       "number": "5464",
       "results": "96"
     },
     {
-      "rank": 3,
       "number": "4824",
-      "results": "95"
+      "results": "88"
     },
     {
-      "rank": 4,
       "number": "3542",
       "results": "93"
     },
     {
-      "rank": 5,
       "number": "0155",
       "results": "90"
     },
     {
-      "rank": 6,
       "number": "3146",
       "results": "89"
     },
     {
-      "rank": 7,
       "number": "1150",
-      "results": "88"
+      "results": "98"
     },
     {
-      "rank": 8,
       "number": "1561",
       "results": "86"
     },
     {
-      "rank": 9,
       "number": "4650",
       "results": "84"
     },
     {
-      "rank": 10,
       "number": "3455",
       "results": "81"
     },
     {
-      "rank": 11,
       "number": "2456",
       "results": "79"
     },
     {
-      "rank": 12,
       "number": "2970",
       "results": "78"
     },
     {
-      "rank": 14,
       "number": "3370",
       "results": "75"
     },
     {
-      "rank": 13,
       "number": "0984",
       "results": "77"
     },
     {
-      "rank": 15,
       "number": "1566",
       "results": "73"
     },
     {
-      "rank": 16,
       "number": "4646",
       "results": "72"
     },
     {
-      "rank": 18,
       "number": "1555",
       "results": "70"
     },
     {
-      "rank": 17,
       "number": "1356",
       "results": "71"
     },
     {
-      "rank": 19,
       "number": "0978",
       "results": "68"
     },
     {
-      "rank": 21,
       "number": "3468",
       "results": "65"
     },
     {
-      "rank": 20,
       "number": "0014",
       "results": "66"
     },
     {
-      "rank": 22,
       "number": "5405",
       "results": "65"
     },
     {
-      "rank": 23,
       "number": "3405",
       "results": "65"
     },
     {
-      "rank": 24,
       "number": "2489",
       "results": "64"
     },
     {
-      "rank": 25,
       "number": "3410",
       "results": "64"
     },
     {
-      "rank": 26,
       "number": "0147",
       "results": "64"
     },
     {
-      "rank": 27,
       "number": "2795",
       "results": "63"
     }
