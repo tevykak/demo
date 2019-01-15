@@ -1,8 +1,15 @@
 {
   "users": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "rank": 1,
+      "number": "1543",
+      "anwsers": "98"
+    },
+    {
+      "rank": 2,
+      "number": "5464",
+      "anwsers": "96"
+    }
   ],
   "profile": {
     "name": "typicode"
